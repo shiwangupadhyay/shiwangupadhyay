@@ -40,12 +40,13 @@
 > MLOps pipeline with MongoDB, AWS (S3, EC2), Docker, GitHub Actions.  
 > Real-time ML predictions with FastAPI frontend.
 
-#### 🔹 **Fake News Detection Web App**
-> Achieved 99% accuracy using Decision Tree & FastAPI.  
-> Integrated DVC for reproducible pipelines.
+#### 🔹 **Insurance Premium Category Predictor**
+> Achieved 90% accuracy using Random Forest Classifier & FastAPI.  
+> Developed a full-stack ML web app to predict insurance premium categories (Low/Medium/High) based on personal and financial attributes.
+> Built a responsive frontend using Streamlit for real-time user interaction, Designed a RESTful API using FastAPI to serve a trained machine learning model.
 
 #### 🔹 **RSI Forex Strategy Screener**
-> Real-time screener using Streamlit and Yahoo Finance API for ProfNITT.  
+> Real-time screener using FastAPI and Yahoo Finance API for ProfNITT.  
 > Supports multi-timeframe RSI signals across 25+ currency pairs.
 
 #### 🔹 **Demand Forecasting**
