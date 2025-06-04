@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shiwang Upadhyay</h1>
-<h3 align="center">Aspiring Data Scientist | MLOps Enthusiast | Quant at ProfNITT | Consultant @ WorldQuant Brain</h3>
+<h3 align="center">Aspiring Data Scientist | MLOps Enthusiast | Quant Head at ProfNITT | Consultant @ WorldQuant Brain</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shiwangupadhyay&label=Profile%20views&color=0e75b6&style=flat" alt="shiwangupadhyay" />
@@ -86,6 +86,6 @@
 ### 🧮 Fun Fact
 
 > I believe well-structured data, like good strategy, beats brute force every time.  
-> I'm always up for a challenge in analytics, trading, or a game of volleyball. 🏐
+> I'm always up for a challenge in analytics, trading, or a game of chess. 🏐
 
 ---
