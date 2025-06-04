@@ -39,19 +39,25 @@
 #### 🔹 **Vehicle Insurance Prediction App**
 > MLOps pipeline with MongoDB, AWS (S3, EC2), Docker, GitHub Actions.  
 > Real-time ML predictions with FastAPI frontend.
+[Vehicle Insurance Prediction App](https://github.com/shiwangupadhyay/vehicle-insurance-project)
 
 #### 🔹 **Insurance Premium Category Predictor**
 > Achieved 90% accuracy using Random Forest Classifier & FastAPI.  
 > Developed a full-stack ML web app to predict insurance premium categories (Low/Medium/High) based on personal and financial attributes.
 > Built a responsive frontend using Streamlit for real-time user interaction, Designed a RESTful API using FastAPI to serve a trained machine learning model.
+[Backend](https://github.com/shiwangupadhyay/insurance_premium_prediction_api), [Frontend](https://github.com/shiwangupadhyay/Insurance_premium_prediction_app)
+[Insurance Premium Category Predictor](https://insurance-premiumprediction.streamlit.app/)
 
 #### 🔹 **RSI Forex Strategy Screener**
 > Real-time screener using FastAPI and Yahoo Finance API for ProfNITT.  
 > Supports multi-timeframe RSI signals across 25+ currency pairs.
+[RSI Forex Strategy Screener](https://forex-rsi-screener-8onq.onrender.com/)
+[GitHub Repository](https://github.com/shiwangupadhyay/rsi_screener_final)
 
-#### 🔹 **Demand Forecasting**
-> ARIMA, SARIMA time series analysis for retail sales forecasting.  
-> Employed ML tools in Python to predict inventory demand.
+#### 🔹 **Monthly Max Temperature Forecast**
+> Developed a time series forecasting model using SARIMAX to predict monthly maximum temperatures in Madrid for 2024 based on historical climate data.  
+> Performed data preprocessing, stationarity checks, seasonal decomposition, and hyperparameter tuning to optimize model accuracy (AIC-based).
+[Monthly Max Temperature Forecast](https://github.com/shiwangupadhyay/Monthly-maximum-temperature-projection)
 
 ---
 
@@ -87,6 +93,6 @@
 ### 🧮 Fun Fact
 
 > I believe well-structured data, like good strategy, beats brute force every time.  
-> I'm always up for a challenge in analytics, trading, or a game of chess. 🏐
+> I'm always up for a challenge in analytics, trading, or a game of chess.
 
 ---
