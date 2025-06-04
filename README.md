@@ -46,6 +46,8 @@
 > Developed a full-stack ML web app to predict insurance premium categories (Low/Medium/High) based on personal and financial attributes.
 > Built a responsive frontend using Streamlit for real-time user interaction, Designed a RESTful API using FastAPI to serve a trained machine learning model.
 > [Backend](https://github.com/shiwangupadhyay/insurance_premium_prediction_api), [Frontend](https://github.com/shiwangupadhyay/Insurance_premium_prediction_app)
+
+> [Backend](https://github.com/shiwangupadhyay/insurance_premium_prediction_api), [Frontend](https://github.com/shiwangupadhyay/Insurance_premium_prediction_app)
 > [Insurance Premium Category Predictor](https://insurance-premiumprediction.streamlit.app/)
 
 #### 🔹 **RSI Forex Strategy Screener**
