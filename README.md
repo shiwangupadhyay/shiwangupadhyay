@@ -12,7 +12,7 @@
 - 🎓 B.Tech, **Metallurgical & Materials Engineering** @ NIT Trichy (2022–2026)
 - 💼 Consultant @ [WorldQuant Brain](https://www.worldquant.com/brain/)
 - 🧪 Currently building ML/MLOps apps and trading models with Python
-- 🔍 Interested in **Data Science, Finance, MLOps, and Geopolitics**
+- 🔍 Interested in **Data Science, Finance, MLOps, and AI Engineering**
 - 📫 Reach me at **shiwangupadhyay05@gmail.com**
 
 ---
